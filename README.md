@@ -2,16 +2,16 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Michael Gao
+- **CCID:** mhgao
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+StackOverflow
+https://stackoverflow.com/questions/7248957/android-button-layout-get-two-buttons-side-by-side-across-entire-screen
+https://stackoverflow.com/questions/21295328/android-listview-with-onclick-items
 
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
